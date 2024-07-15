@@ -1,6 +1,7 @@
 # Supply Chain Optimization Analysis
 
-![Supply Chain Image](images/supply_chain_header.jpg)
+![SassySeaHorse_Craft_an_image_that_showcases_intelligent_invento_6970f171-a427-4604-a469-f2b6e67f1003](https://github.com/user-attachments/assets/1ce583bd-35b6-45b4-8abe-eca497bc5276)
+
 
 Supply Chain Optimization Analysis provides a detailed exploration of supply chain management strategies through mathematical modeling and sensitivity analysis. This project aims to optimize logistical operations and plant location decisions to minimize costs and enhance efficiency.
 
